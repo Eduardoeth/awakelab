@@ -1,0 +1,1 @@
+Nuestro primeros datos valiosos a guardar en un archivo para uso futuro
